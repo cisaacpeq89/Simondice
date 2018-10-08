@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:enterFadeDuration="@android:integer/config_longAnimTime" android:visible="true">
+
+    <item android:drawable="@mipmap/dhalsim_activo" android:state_activated="false" android:state_active="false" android:state_pressed="true" android:state_window_focused="true" />
+    <item android:drawable="@mipmap/dhalsim" android:state_pressed="false" android:state_window_focused="false" />
+</selector>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">simondice</string>
+    <string name="Titulo">SIMON DICE</string>
+    <string name="record">LISTA DE RECORD</string>
+    <string name="jugar">JUGAR</string>
+    <string name="title_activity_jugar">Jugar</string>
+    <string name="title_activity_records">Records</string>
+    <string name="title_activity_lista">Records</string>
+    <string name="Nivel_string">NIVEL</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="menu_button">MENU</string>
+</resources>
